@@ -1,8 +1,19 @@
-<h1 align="center" style="transform:translateX(-18px)">👋Oh hi! I'm Shane</h1>
+<h1 align="center" style="transform:translateX(-18px)">👋 Oh hi! I'm Shane</h1>
 
 <p align="center">
     <img src="./assets/banner.gif">
 </p>
+
+<h2>☕️ About Me</h2>
+
+<p align="center">
+🎓 I'm currently a 3rd Year College student taking up Information Technology in the University of San Carlos 🎓
+</p>
+- 📚 Currently Learning: <strong>Typescript, SQL, JSON Webtoken</strong>
+- ✨ Hobbies: <strong>Gaming, Swimming, Video-Editing</strong>
+- 💭 Interests: <strong>Web Development, Game Development, Information Security, Photography</strong>
+- 📩 How to reach me: <strong>18020776@usc.edu.ph</strong>
+
 
 <h2>📈 Github Statistics</h2>
 
