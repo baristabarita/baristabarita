@@ -1,6 +1,6 @@
 ---
 
-<h2 align="center">📈 Github Statistics</h2>
+<h2>📈 Github Statistics</h2>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%">
   <div style="display: flex; width: 100%; justify-content: center; gap: 8px">
