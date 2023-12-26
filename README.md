@@ -1,5 +1,9 @@
 <h1 align="center" style="transform:translateX(-18px)">👋Oh hi! I'm Shane</h1>
 
+<p align="center">
+    <img src="./assets/banner.gif">
+</p>
+
 <h2>📈 Github Statistics</h2>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%">
