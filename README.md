@@ -11,7 +11,7 @@ I'm currently a 3rd Year College student taking up Information Technology in the
 </p>
 -->
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; 📚 Currently Learning: <strong>Typescript, SQL, JSON Webtoken</strong>
+&nbsp; &nbsp; &nbsp; &nbsp; 📚 Currently Learning: <strong>Typescript, Python</strong>
 </p>
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Gaming, Swimming, Video-Editing</strong>
