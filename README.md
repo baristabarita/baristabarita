@@ -11,7 +11,7 @@ I'm currently a 3rd Year College student taking up Information Technology in the
 </p>
 -->
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; 📚 Currently Learning: <strong>Typescript, Python, Jest</strong>
+&nbsp; &nbsp; &nbsp; &nbsp; 📚 Currently Learning: <strong>Prisma, Python, Jest, Selenium</strong>
 </p>
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Gaming, Swimming, Video-Editing</strong>
@@ -28,9 +28,11 @@ I'm currently a 3rd Year College student taking up Information Technology in the
 <h4 align="left">Languages</h4>
 <p align="left">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+    <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="typescript"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="c++"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
 </p>
 
 <h4 align="left">Frontend Frameworks and Technologies</h4>
