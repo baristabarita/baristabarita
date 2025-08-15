@@ -20,7 +20,7 @@ I'm currently a 3rd Year College student taking up Information Technology in the
 &nbsp; &nbsp; &nbsp; &nbsp; 💭 Interests: <strong>Web Development, Game Development, Information Security, Photography</strong>
 </p>
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; 📩 How to reach me: <strong>18020776@usc.edu.ph</strong>
+&nbsp; &nbsp; &nbsp; &nbsp; 📩 How to reach me: <strong>slbarita.work@gmail.com</strong>
 </p>
 
 <h2>🧰 Languages and Tools</h2>
