@@ -11,9 +11,6 @@ I'm currently a 3rd Year College student taking up Information Technology in the
 </p>
 -->
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; 📚 Currently Learning: <strong>Prisma, Python, Jest, Selenium</strong>
-</p>
-<p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Gaming, Swimming, Video-Editing</strong>
 </p>
 <p align="left">
