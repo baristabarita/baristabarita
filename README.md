@@ -11,7 +11,7 @@ I'm currently a 3rd Year College student taking up Information Technology in the
 </p>
 -->
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Gaming, Swimming, Video-Editing</strong>
+&nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Gaming, Walking / Jogging, Video-Editing, Weight-lifting</strong>
 </p>
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; 💭 Interests: <strong>Web Development, Game Development, Information Security, Photography</strong>
@@ -39,13 +39,16 @@ I'm currently a 3rd Year College student taking up Information Technology in the
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="react"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
 </p>
 
 <h4 align="left">Backend Frameworks and Technologies and Databases</h4>
 <p align="left">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="nodejs"  />
     <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="express"  />
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"  />
+    <img src="https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff" alt="typeorm"  />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="firebase"  />
 </p>
