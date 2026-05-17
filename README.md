@@ -4,7 +4,7 @@
     <img src="./assets/banner.gif">
 </p>
 
-<h2>☕️ About Me</h2>
+## ☕️ About Me
 <!---
 <p align="center">
 I'm currently a 3rd Year College student taking up Information Technology in the University of San Carlos
@@ -20,9 +20,9 @@ I'm currently a 3rd Year College student taking up Information Technology in the
 &nbsp; &nbsp; &nbsp; &nbsp; 📩 How to reach me: <strong>slbarita.work@gmail.com</strong>
 </p>
 
-<h2>🧰 Languages and Tools</h2>
+## 🧰 Languages and Tools
 
-<h4 align="left">Languages</h4>
+### Languages
 <p align="left">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
     <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="typescript"/>
@@ -32,7 +32,7 @@ I'm currently a 3rd Year College student taking up Information Technology in the
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
 </p>
 
-<h4 align="left">Frontend Frameworks and Technologies</h4>
+### Frontend Frameworks and Technologies
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
@@ -43,7 +43,7 @@ I'm currently a 3rd Year College student taking up Information Technology in the
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
 </p>
 
-<h4 align="left">Backend Frameworks and Technologies and Databases</h4>
+### Backend Frameworks and Technologies and Databases
 <p align="left">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="nodejs"  />
     <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="express"  />
@@ -53,19 +53,20 @@ I'm currently a 3rd Year College student taking up Information Technology in the
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="firebase"  />
 </p>
 
-<h4 align="left">Other Tools</h4>
+#### Cloud Platforms
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Other Tools
 <p align="left">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop"/>
 </p>
 
-<h2>📈 Github Statistics</h2>
+---
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%">
-  <div style="display: flex; width: 100%; justify-content: center; gap: 8px">
-    <img style="width: 392px" src="https://github-readme-stats.vercel.app/api?username=baristabarita&theme=algolia&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baristabarita&theme=algolia&layout=compact&hide=jupyter%20notebook" />
-  </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baristabarita&theme=algolia&hide_border=false">
-</div>
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shanelouisbarita/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
